@@ -1,0 +1,13 @@
+{
+    "reddit": {
+        "user_agent": "my user agent",
+        "client_id": "tu_client_id",
+        "client_secret": "tu_client_secret",
+        "username": "tu_username",
+        "password": "tu_password"
+    },
+    "youtube": {
+        "client_secrets_file": "youtube.json",
+        "token_file": "tokenTEU.json"
+    }
+}

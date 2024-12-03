@@ -10,3 +10,4 @@ Este portafolio lo comencé hace poco tiempo por lo que no tengo muchos de los p
 
 - FakeInstagram fue un proyecto grupal de desarrollo web, que tenía como idea crear una copia "sencilla" de Instagram usando React y React Native. Dentro de la carpeta se encuentra la versión web, la versión de celular (native) y el backend. El proyecto en su totalidad tiene los instructivos de como ejecutarse y la explicación de todo lo realizado.
 
+- Youtube - reddit Upload: Automatización para descargar videos de Reddit y subirlos a YouTube usando Python, APIs REST y manejo de cuotas.

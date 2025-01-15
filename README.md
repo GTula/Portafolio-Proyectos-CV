@@ -11,3 +11,18 @@ Este portafolio lo comencé hace poco tiempo por lo que no tengo muchos de los p
 - FakeInstagram fue un proyecto grupal de desarrollo web, que tenía como idea crear una copia "sencilla" de Instagram usando React y React Native. Dentro de la carpeta se encuentra la versión web, la versión de celular (native) y el backend. El proyecto en su totalidad tiene los instructivos de como ejecutarse y la explicación de todo lo realizado.
 
 - Youtube - reddit Upload: Automatización para descargar videos de Reddit y subirlos a YouTube usando Python, APIs REST y manejo de cuotas.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+I recently started this portfolio, so I don't yet have many of the large projects I’ve worked on, both at university and individually. I was able to recover a few of them, but I’ll be updating it over time.
+
+- The Trello project was completed with some group assistance. I also have a version built solely with JavaScript, HTML, and CSS, without using any libraries. The backend is not included because it was provided by the course. I clarify this because the project demonstrates the different HTTP methods of the REST API, but not the backend itself.
+
+- The Social Network project was created to apply various algorithms and possible data structures. Inside the folder, there is a file with the problem statement (created by me) and another file with the solution to the problem. The folder includes many classes that may not have been used in this specific project, but I kept them as they are the result of several other projects I’ve worked on in the algorithms and data structures course. I have completed other similar projects using trees, sets, and other types of algorithms and data structures.
+
+- The Battleship project was another project developed in C# to work with object-oriented programming, following GRASP and SOLID principles. It is not fully completed, as the bot that players should be able to compete against doesn’t function perfectly, but the main goal of this project was to structure the code correctly.
+
+- The Complete Database project was created to combine what I’ve learned in databases, backend, and frontend development. It used Python, Flask, SQL Server, and React JS. The project description and explanation can be found in the respective folder.
+
+- FakeInstagram was a group web development project designed to create a "simple" copy of Instagram using React and React Native. The folder contains the web version, the mobile version (native), and the backend. The entire project includes instructions on how to run it and an explanation of everything that was implemented.
+
+- The YouTube-Reddit Upload project is an automation for downloading videos from Reddit and uploading them to YouTube using Python, REST APIs, and quota management.

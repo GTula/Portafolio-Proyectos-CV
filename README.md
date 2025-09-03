@@ -1,4 +1,4 @@
-Este portafolio lo comencé hace poco tiempo por lo que no tengo muchos de los proyectos grandes que he ido haciendo tanto en la facultad como de manera individual. Logré recuperar algunos pocos, pero con el paso del tiempo lo iré actualizando.
+Este portafolio lo comencé hace poco tiempo por lo que no tengo muchos de los proyectos grandes que he ido haciendo tanto en la facultad como de manera individual. Logré recuperar algunos pocos, pero con el paso del tiempo lo iré actualizando. Me falta emprolijar bastante y hacerlo más entendible, je.
 
 - El proyecto de Trello lo realicé con un poco de ayuda grupal. Además tengo una versión solo de JavaScript, HTML y css sin el uso de ninguna biblioteca. No figura el backend ya que no fue creado por mi, sino que me lo dieron desde la catedra. Aclaro ya que se muestran los distintos métodos HTTP de la api rest, pero no el backend.
 
